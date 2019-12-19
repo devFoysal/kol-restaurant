@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.519" y1="1" x2="0.52" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#449aa3"/>
+      <stop offset="1" stop-color="#4ebac5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1715" data-name="Group 1715" transform="translate(-665 -838)">
+    <rect id="bg" width="48" height="48" rx="24" transform="translate(665 838)" fill="url(#linear-gradient)"/>
+    <g id="shopping-bag" transform="translate(624.977 848)">
+      <g id="Group_1474" data-name="Group 1474" transform="translate(53.023 5.548)">
+        <g id="Group_1473" data-name="Group 1473" transform="translate(0)">
+          <path id="Path_1100" data-name="Path 1100" d="M75.308,118.649l-1.256-15.826a1.977,1.977,0,0,0-1.963-1.818H69.609v3.676a.824.824,0,1,1-1.647,0v-3.676H60.384v3.676a.824.824,0,1,1-1.647,0v-3.676H56.256a1.977,1.977,0,0,0-1.963,1.816l-1.256,15.83a4.58,4.58,0,0,0,4.566,4.93H70.743a4.579,4.579,0,0,0,4.565-4.932Zm-7.425-8.059-4.26,4.26a.823.823,0,0,1-1.165,0l-2-2a.824.824,0,1,1,1.165-1.165l1.414,1.414,3.678-3.678a.824.824,0,1,1,1.165,1.165Z" transform="translate(-53.023 -101.005)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_1476" data-name="Group 1476" transform="translate(58.737)">
+        <g id="Group_1475" data-name="Group 1475" transform="translate(0)">
+          <path id="Path_1101" data-name="Path 1101" d="M162.475,0a5.443,5.443,0,0,0-5.436,5.437v.111h1.647V5.437a3.789,3.789,0,1,1,7.578,0v.111h1.647V5.437A5.443,5.443,0,0,0,162.475,0Z" transform="translate(-157.039)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
